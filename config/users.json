@@ -1,0 +1,17 @@
+[
+  {
+    "id": "u001",
+    "name": "Jean Dupont",
+    "email": "jean.dupont@example.com",
+    "role": "RH",
+    "active": true
+  },
+  {
+    "id": "u002",
+    "name": "Claire Dubois",
+    "email": "claire.dubois@example.com",
+    "role": "IT",
+    "active": true
+  }
+]
+

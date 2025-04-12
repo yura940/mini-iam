@@ -1,0 +1,19 @@
+[
+  {
+    "name": "HR_APP",
+    "permissions": ["view_salary", "edit_contract"]
+  },
+  {
+    "name": "HR_DASHBOARD",
+    "permissions": ["dashboard_view"]
+  },
+  {
+    "name": "ADMIN_CONSOLE",
+    "permissions": ["manage_users", "restart_services"]
+  },
+  {
+    "name": "SERVER_ACCESS",
+    "permissions": ["ssh_login", "deploy_code"]
+  }
+]
+

@@ -1,0 +1,11 @@
+[
+  {
+    "name": "RH",
+    "permissions": ["HR_APP", "HR_DASHBOARD"]
+  },
+  {
+    "name": "IT",
+    "permissions": ["ADMIN_CONSOLE", "SERVER_ACCESS"]
+  }
+]
+
