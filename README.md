@@ -105,9 +105,8 @@ java -cp target/mini-iam-1.0-SNAPSHOT.jar com.yura.iam.App
 
 ## 👤 Author
 
-**Yura**  
-Security-conscious Java developer focused on IAM, automation and access governance.  
-This project was built as a technical showcase for real-world IAM concepts.
+Built by @yura940 — Cybersecurity Engineer.
+Feel free to connect on LinkedIn
 
 ---
 
